@@ -1,0 +1,10 @@
+c:\users\bryan\documents\visual studio 2013\Projects\KindleVocabExtractor\KindleVocabExtractor\bin\Release\KindleVocabExtractor.exe.config
+c:\users\bryan\documents\visual studio 2013\Projects\KindleVocabExtractor\KindleVocabExtractor\bin\Release\KindleVocabExtractor.exe
+c:\users\bryan\documents\visual studio 2013\Projects\KindleVocabExtractor\KindleVocabExtractor\bin\Release\KindleVocabExtractor.pdb
+c:\users\bryan\documents\visual studio 2013\Projects\KindleVocabExtractor\KindleVocabExtractor\bin\Release\System.Data.SQLite.dll
+c:\users\bryan\documents\visual studio 2013\Projects\KindleVocabExtractor\KindleVocabExtractor\bin\Release\System.Data.SQLite.xml
+c:\users\bryan\documents\visual studio 2013\Projects\KindleVocabExtractor\KindleVocabExtractor\obj\Release\KindleVocabExtractor.frmKVE.resources
+c:\users\bryan\documents\visual studio 2013\Projects\KindleVocabExtractor\KindleVocabExtractor\obj\Release\KindleVocabExtractor.Properties.Resources.resources
+c:\users\bryan\documents\visual studio 2013\Projects\KindleVocabExtractor\KindleVocabExtractor\obj\Release\KindleVocabExtractor.csproj.GenerateResource.Cache
+c:\users\bryan\documents\visual studio 2013\Projects\KindleVocabExtractor\KindleVocabExtractor\obj\Release\KindleVocabExtractor.exe
+c:\users\bryan\documents\visual studio 2013\Projects\KindleVocabExtractor\KindleVocabExtractor\obj\Release\KindleVocabExtractor.pdb
