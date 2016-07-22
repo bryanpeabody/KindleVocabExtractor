@@ -1,18 +1,12 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Drawing;
-using System.Linq;
 using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.IO;
 using System.Reflection;
 using System.Diagnostics;
 using System.Data.SQLite;
 using System.Net;
-using System.Configuration;
 
 namespace KindleVocabExtractor
 {
@@ -90,8 +84,8 @@ namespace KindleVocabExtractor
         /// Show a list of books in the sqlite db.
         /// </summary>
         private void populateGrid()
-        {            
-            using (SQLiteConnection m_dbConnection = new SQLiteConnection("Data Source=" + openFileDialog1.FileName + ";Version=3;"))
+        {
+            using (SQLiteConnection m_dbConnection = new SQLiteConnection("Data Source=" + openFileDialog1.FileName))
             {
                 try
                 {
@@ -103,7 +97,7 @@ namespace KindleVocabExtractor
                     SQLiteDataReader reader = command.ExecuteReader();
 
                     while (reader.Read())
-                    {                        
+                    {
                         string id = reader[0].ToString();
                         string title = reader[1].ToString();
 
@@ -111,10 +105,10 @@ namespace KindleVocabExtractor
                         dataGridView1.Rows[index].Cells["Book"].Value = title;
                         dataGridView1.Rows[index].Cells["id"].Value = id;
                     }
-                                                           
+
                     // Resize the DataGridView columns to fit the newly loaded content.
                     dataGridView1.AutoResizeColumns(DataGridViewAutoSizeColumnsMode.AllCellsExceptHeader);
-                    
+
                 }
                 catch (Exception e)
                 {
@@ -122,9 +116,9 @@ namespace KindleVocabExtractor
                 }
                 finally
                 {
-                    m_dbConnection.Close();                    
+                    m_dbConnection.Close();
                 }
-            }
+            }            
         }
 
         /// <summary>

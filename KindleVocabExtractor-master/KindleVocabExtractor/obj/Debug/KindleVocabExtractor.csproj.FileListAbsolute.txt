@@ -9,3 +9,13 @@ c:\users\bryan\documents\visual studio 2013\Projects\KindleVocabExtractor\Kindle
 c:\users\bryan\documents\visual studio 2013\Projects\KindleVocabExtractor\KindleVocabExtractor\obj\Debug\KindleVocabExtractor.exe
 c:\users\bryan\documents\visual studio 2013\Projects\KindleVocabExtractor\KindleVocabExtractor\obj\Debug\KindleVocabExtractor.pdb
 c:\users\bryan\documents\visual studio 2013\Projects\KindleVocabExtractor\KindleVocabExtractor\obj\Debug\KindleVocabExtractor.frmKVE.resources
+C:\Users\Bryan.Peabody\Bitbucket\kindlevocabextractor\KindleVocabExtractor-master\KindleVocabExtractor\bin\Debug\KindleVocabExtractor.exe.config
+C:\Users\Bryan.Peabody\Bitbucket\kindlevocabextractor\KindleVocabExtractor-master\KindleVocabExtractor\bin\Debug\KindleVocabExtractor.exe
+C:\Users\Bryan.Peabody\Bitbucket\kindlevocabextractor\KindleVocabExtractor-master\KindleVocabExtractor\bin\Debug\KindleVocabExtractor.pdb
+C:\Users\Bryan.Peabody\Bitbucket\kindlevocabextractor\KindleVocabExtractor-master\KindleVocabExtractor\bin\Debug\System.Data.SQLite.dll
+C:\Users\Bryan.Peabody\Bitbucket\kindlevocabextractor\KindleVocabExtractor-master\KindleVocabExtractor\bin\Debug\System.Data.SQLite.xml
+C:\Users\Bryan.Peabody\Bitbucket\kindlevocabextractor\KindleVocabExtractor-master\KindleVocabExtractor\obj\Debug\KindleVocabExtractor.frmKVE.resources
+C:\Users\Bryan.Peabody\Bitbucket\kindlevocabextractor\KindleVocabExtractor-master\KindleVocabExtractor\obj\Debug\KindleVocabExtractor.Properties.Resources.resources
+C:\Users\Bryan.Peabody\Bitbucket\kindlevocabextractor\KindleVocabExtractor-master\KindleVocabExtractor\obj\Debug\KindleVocabExtractor.csproj.GenerateResource.Cache
+C:\Users\Bryan.Peabody\Bitbucket\kindlevocabextractor\KindleVocabExtractor-master\KindleVocabExtractor\obj\Debug\KindleVocabExtractor.exe
+C:\Users\Bryan.Peabody\Bitbucket\kindlevocabextractor\KindleVocabExtractor-master\KindleVocabExtractor\obj\Debug\KindleVocabExtractor.pdb

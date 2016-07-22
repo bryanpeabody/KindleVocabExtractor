@@ -69,14 +69,14 @@
             // openVocabdbToolStripMenuItem
             // 
             this.openVocabdbToolStripMenuItem.Name = "openVocabdbToolStripMenuItem";
-            this.openVocabdbToolStripMenuItem.Size = new System.Drawing.Size(155, 22);
+            this.openVocabdbToolStripMenuItem.Size = new System.Drawing.Size(156, 22);
             this.openVocabdbToolStripMenuItem.Text = "Open Vocab.db";
             this.openVocabdbToolStripMenuItem.Click += new System.EventHandler(this.openVocabdbToolStripMenuItem_Click);
             // 
             // exportToolStripMenuItem
             // 
             this.exportToolStripMenuItem.Name = "exportToolStripMenuItem";
-            this.exportToolStripMenuItem.Size = new System.Drawing.Size(155, 22);
+            this.exportToolStripMenuItem.Size = new System.Drawing.Size(156, 22);
             this.exportToolStripMenuItem.Text = "Export";
             this.exportToolStripMenuItem.Click += new System.EventHandler(this.exportToolStripMenuItem_Click);
             // 
@@ -91,6 +91,7 @@
             // 
             // checkForUpdatesToolStripMenuItem
             // 
+            this.checkForUpdatesToolStripMenuItem.Enabled = false;
             this.checkForUpdatesToolStripMenuItem.Name = "checkForUpdatesToolStripMenuItem";
             this.checkForUpdatesToolStripMenuItem.Size = new System.Drawing.Size(170, 22);
             this.checkForUpdatesToolStripMenuItem.Text = "Check for updates";
