@@ -68,7 +68,7 @@ namespace KindleVocabExtractor
             version.Append("Kindle Vocab Extractor").Append(Environment.NewLine);
             version.Append("Version: ").Append(getVersionNumber()).Append(Environment.NewLine);
             version.Append("Written by: Bryan Peabody, 2015").Append(Environment.NewLine).Append(Environment.NewLine);
-            version.Append("Visit http://www.bryanpeabody.net for more information.").Append(Environment.NewLine);
+            version.Append("Visit http://dev.bryanpeabody.net for more information.").Append(Environment.NewLine);
 
             MessageBox.Show(version.ToString(), "About");
         }
@@ -257,7 +257,7 @@ namespace KindleVocabExtractor
         private void checkForUpdates()
         {
             bool hasUpdate = false;
-            string url = "http://bryanpeabody.net/versions/KVE/KVE.txt";
+            string url = "http://dev.bryanpeabody.net/versions/KVE/KVE.txt";
             string clientVersion = getVersionNumber();
 
             using (WebClient client = new WebClient())
@@ -281,7 +281,7 @@ namespace KindleVocabExtractor
             {
                 if (MessageBox.Show("There is an update available!" + Environment.NewLine + "Would you like to download it?", "Update software", MessageBoxButtons.YesNo, MessageBoxIcon.Information) == DialogResult.Yes)
                 {
-                    System.Diagnostics.Process.Start("http://bryanpeabody.net/kindle-vocab-extractor/"); 
+                    System.Diagnostics.Process.Start("http://dev.bryanpeabody.net"); 
                 }
             }  
             else

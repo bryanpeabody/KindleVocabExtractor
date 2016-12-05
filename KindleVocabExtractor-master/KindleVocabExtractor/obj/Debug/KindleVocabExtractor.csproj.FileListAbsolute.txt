@@ -19,3 +19,4 @@ C:\Users\Bryan.Peabody\Bitbucket\kindlevocabextractor\KindleVocabExtractor-maste
 C:\Users\Bryan.Peabody\Bitbucket\kindlevocabextractor\KindleVocabExtractor-master\KindleVocabExtractor\obj\Debug\KindleVocabExtractor.csproj.GenerateResource.Cache
 C:\Users\Bryan.Peabody\Bitbucket\kindlevocabextractor\KindleVocabExtractor-master\KindleVocabExtractor\obj\Debug\KindleVocabExtractor.exe
 C:\Users\Bryan.Peabody\Bitbucket\kindlevocabextractor\KindleVocabExtractor-master\KindleVocabExtractor\obj\Debug\KindleVocabExtractor.pdb
+C:\Users\Bryan.Peabody\Bitbucket\kindlevocabextractor\KindleVocabExtractor-master\KindleVocabExtractor\obj\Debug\KindleVocabExtractor.csprojResolveAssemblyReference.cache
