@@ -4,8 +4,7 @@ A Windows Desktop app used to produce Anki Cloze Cards from a Kindle vocabulary 
 
 Tutorial
 =
-https://youtu.be/hNeZKkDMF0w
+
 
 Download
 =
-http://bryanpeabody.net/dev/downloads/kve.zip
